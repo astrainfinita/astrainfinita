@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-[Competitive programmer](https://en.wikipedia.org/wiki/Competitive_programming) / Untutored **pure mathematics** & **theoretical computer science** learner / Exploring the future of proving and programming in Lean4
+[Competitive programmer](https://en.wikipedia.org/wiki/Competitive_programming) / Untutored **pure mathematics** (particularly **theoretical computer science**) learner / Exploring the future of proving and programming in Lean4
 
 - Some competitive programming achievements
 
